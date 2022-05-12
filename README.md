@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aanchal Jha
+- :girl: I am of 10 Years
+- :computer: I’m interested in Coding
+- :woman_technologist: I’m currently learning HTML, CSS and JS
